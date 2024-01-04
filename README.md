@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+A passionate android developer from Turkey
+🔭 I’m currently working on Kotlin/Android
+
+🌱 I’m currently learning Android Programming
+
+💬 Ask me about Kotlin/Java/Android
+
+📫 How to reach me yusufmucahitsolmaz@gmail.com
+
+Languages and Tools:
+azure csharp dotnet java mysql postgresql postman python react spring unity
+
+
 <!--
 **Yusuf-Solmaz/Yusuf-Solmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
