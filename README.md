@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 A passionate android developer from Turkey
+
 🔭 I’m currently working on Kotlin/Android
 
 🌱 I’m currently learning Android Programming
@@ -10,7 +11,7 @@ A passionate android developer from Turkey
 📫 How to reach me yusufmucahitsolmaz@gmail.com
 
 Languages and Tools:
-azure csharp dotnet java mysql postgresql postman python react spring unity
+
 
 
 <!--
