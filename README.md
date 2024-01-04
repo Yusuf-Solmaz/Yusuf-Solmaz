@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yusufmucahitsolmaz@gmail.com**
 
-- 📄 Know about my experiences [click here][https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing](https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
