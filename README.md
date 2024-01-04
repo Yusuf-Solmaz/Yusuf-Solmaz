@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **Android Developing**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing](https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [here](https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing)
+
 
 - 💬 Ask me about **Kotlin/Java and Android**
 
 - 📫 How to reach me **yusufmucahitsolmaz@gmail.com**
 
-- 📄 Know about my experiences a[https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing](https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing)
+- 📄 Know about my experiences [click here][https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing](https://drive.google.com/file/d/12OseoIi-5mNXMP4D4H8exRmZWycDEgVE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
