@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuf Mücahit Solmaz</h1>
+<h1 align="center">Hi, I'm Yusuf Mücahit Solmaz</h1>
 <h3 align="center">Jr. Android Developer</h3>
 
 - 🔭 I’m currently working on **Kotlin/Andorid**
