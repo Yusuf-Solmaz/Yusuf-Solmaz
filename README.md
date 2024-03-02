@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yusuf Mücahit Solmaz</h1>
 
-<div align="center">  
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+Developer;Kotlin+%26+Java" alt="Typing SVG" />
-</div>
+
 - 🔭 I’m currently working on **Kotlin/Android**
 
 - 🌱 I’m currently learning **Android Developing**
