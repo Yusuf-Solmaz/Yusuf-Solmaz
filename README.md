@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Yusuf Mücahit Solmaz</h1>
+
 
 <div align="center">
+  <h1 align="center">Hi, I'm Yusuf Mücahit Solmaz</h1>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+Developer;Kotlin+%26+Java" alt="Typing SVG" style="display: block; margin: auto;" />
 </div>
 
