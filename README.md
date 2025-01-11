@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Kotlin/Android**
 
-- 🌱 I’m currently learning **Android Developing**
-
 - 📫 How to reach me **yusufmucahitsolmaz@gmail.com**
 
-- Medium: **https://medium.com/@yusufmucahitsolmaz**
+- Medium[https://medium.com/@yusufmucahitsolmaz]
+
+- LinkedIn[https://www.linkedin.com/in/yusuf-mucahit-solmaz/] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
