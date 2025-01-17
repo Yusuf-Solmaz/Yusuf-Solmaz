@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **yusufmucahitsolmaz@gmail.com**
 
-- [LinkedIn](https://www.linkedin.com/in/yusuf-mucahit-solmaz/) / [Medium](https://medium.com/@yusufmucahitsolmaz)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
