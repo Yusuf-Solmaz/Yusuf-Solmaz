@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yusuf-mücahit-solmaz-17455b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-mücahit-solmaz-17455b203/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yusuf-mücahit-solmaz-17455b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium-alt.svg" alt="yusuf-mücahit-solmaz-17455b203/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusuf-mucahit-solmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-mucahit-solmaz" height="30" width="40" /></a>
+<a href="https://medium.com/@yusufmucahitsolmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusufmucahitsolmaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
