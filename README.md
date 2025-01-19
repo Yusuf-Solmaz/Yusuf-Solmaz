@@ -3,9 +3,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Android+Developer;Kotlin+%26+Java" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Kotlin/Android**
+- **Kotlin/Android**
 
-- 📫 How to reach me **yusufmucahitsolmaz@gmail.com**
+- **yusufmucahitsolmaz@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
