@@ -3,8 +3,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Kotlin+%26+Java;" alt="Typing SVG" />
 
-- **Kotlin/Android**
-
 - **yusufmucahitsolmaz@gmail.com**
 
 
