@@ -12,7 +12,7 @@
 
 ### 🔗 Connect with me
 
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/yusuf-mucahit-solmaz">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -20,18 +20,6 @@
     <img src="https://skillicons.dev/icons?i=medium" height="40"/>
   </a>
 </p>
-
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,android,firebase,git,mysql,postgres,postman,python,spring" />
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-solmaz&show_icons=true&locale=en&layout=compact" />
